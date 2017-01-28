@@ -1,0 +1,34 @@
+body {
+    background-color: #F44336;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+div#stopwatchWrapper {
+    width: 95%;
+    margin: auto auto;
+    background-color: #EEEEEE;
+}
+div#stopwatch {
+    color: #212121;
+    font-weight: bold;
+    font-size: 17vw;
+    width: 100%;
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+}
+#stopwatchControl {
+    width: 100%;
+}
+#stopwatchControl button {
+    color: #212121;
+    font-size: 7vw;
+    width: 49%;
+    border: 0;
+    background-color: #E0E0E0;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+div#footer {
+    width: 100%;
+    margin-top: 10em;
+}
